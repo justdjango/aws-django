@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+media_root
+static_root
+env
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
