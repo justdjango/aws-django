@@ -6,7 +6,7 @@ This guide shows how to deploy Django on AWS using an RDS Postgres DB, Elastic B
 
 You will need to fill in the .env file with your own credentials and create the required resources on your AWS account.
 
-Follow the tutorial series here
+Follow the tutorial series [here](https://www.justdjango.com/courses/deploying-django-using-aws)
 
 ## Workflow
 
