@@ -9,7 +9,7 @@ cement==2.8.2
 certifi==2019.6.16
 chardet==3.0.4
 colorama==0.3.9
-Django==2.2.4
+Django==2.2.13
 django-storages==1.7.1
 docker==3.7.3
 docker-compose==1.23.2
